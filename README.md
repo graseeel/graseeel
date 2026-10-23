@@ -6,8 +6,8 @@ Software developer focused on **Rust** and **TypeScript**. I develop coding-agen
 
 <div align="center">
   <a href="https://github.com/graseeel">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=graseeel&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=graseeel&layout=compact&langs_count=7&theme=github-dark"/>
+  <img height="160em" src="./profile/stats.svg"/>
+  <img height="160em" src="./profile/top-langs.svg"/>
   </a>
 </div>
 
